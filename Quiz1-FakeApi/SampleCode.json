@@ -1,0 +1,20 @@
+{
+    “student": [
+    {
+    “studentNumber": 180823453,
+    "name": “Student X",
+    “phone": "081802023249",
+    “year": 2018,
+    “studyProgram": ”Informatics Engineering",
+    "status": "active"
+    },
+    {
+    “studentNumber": 140821253,
+    "name": “Student Y",
+    “phone": "081802231249",
+    “year": 2015,
+    “studyProgram": ”Informatics Management",
+    "status": “graduate"
+    }
+    ]
+    }

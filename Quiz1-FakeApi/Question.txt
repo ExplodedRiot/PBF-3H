@@ -1,0 +1,6 @@
+Create a program using Fake API (JSON Server) to record student
+status (active, leave, or graduate) in Information Technology
+Department. Attributes contained in students are student
+number, name, phone number, study program, year of class, and
+status. Applications are made using the API with GET, DELETE,
+and POST methods.
