@@ -1,28 +1,28 @@
 {
-    “student": [
+    "student": [
     {
-    “studentNumber": 19141720078,
-    "name": “Alif Ananda",
-    “phone": "081515557158",
-    “year": 2019,
-    “studyProgram": ”Informatics Engineering",
+    "studentNumber": 19141720078,
+    "name": "Alif Ananda",
+    "phone": "081515557158",
+    "year": 2019,
+    "studyProgram": "Informatics Engineering",
     "status": "active"
     },
     {
-    “studentNumber": 1941720087,
-    "name": “Ananda Alif",
-    “phone": "851755515180",
-    “year": 2022,
-    “studyProgram": ”Informatics Management",
-    "status": leave"
+    "studentNumber": 1941720087,
+    "name": "Ananda Alif",
+    "phone": "851755515180",
+    "year": 2022,
+    "studyProgram": "Informatics Management",
+    "status": "leave"
     },
     {
-    “studentNumber": 1941720088,
-    "name": “Fila Ananda,
-    “phone": "081571581555",
-    “year": 2021,
-    “studyProgram": ”Informatics Management",
-    "status": “graduate"
+    "studentNumber": 1941720088,
+    "name": "Fila Ananda",
+    "phone": "081571581555",
+    "year": 2021,
+    "studyProgram": "Informatics Management",
+    "status": "graduate"
     }
     ]
 }
