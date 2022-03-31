@@ -1,0 +1,4 @@
+1. npm install -g json-server
+2. cd (filename)
+3. json-server --watch db.json --port 3004
+4. it will show a link as http://localhost:3004/student
